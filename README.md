@@ -1,16 +1,17 @@
-## Hi there 👋
+## Bem vindos ao meu perfil! 🐈‍⬛
+Meu nome é Isabele Abreu
 
-<!--
-**isaabreu07/isaabreu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Estou estudando no Alura!
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos.
 
-Here are some ideas to get you started:
+### Vocẽ pode entrar em contato comigo 📫 !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+▪️ @buono.isabeli@escola.pr.gov.br
+
+
+▪️ @_isabeleabreu 🧚‍♀️
+
+
+▪️ 💍
+
+![](https://media1.tenor.com/m/cL7OmSccESQAAAAC/maddy-perez-alexa-demie.gif)
